@@ -61,7 +61,7 @@ PerpusApp adalah sebuah aplikasi manajemen perpustakaan digital yang dirancang u
 ## 🔐 Data Login Default
 
 | Role   | Username           | Password  |
-|--------|--------------------|-----------|
+|:-------|:------------------:|----------:|
 | Admin  | Admin              | admin     |
 | Petugas| Petugas            | petugas   |
 
