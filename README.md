@@ -1,12 +1,13 @@
 <p align="center"><a href="https://github.com/Hazelnut-dev/PerpuApp-Laravel12" target="_blank"><img src="public/image/layouts/logo.png" width="400" alt="PerpusApp Logo"></a></p>
 
+# 📚 PerpusApp - Aplikasi Manajemen Perpustakaan
+
+
+<p align="center"><a href="https://github.com/Hazelnut-dev/PerpuApp-Laravel12" target="_blank"><img src="public/image/layouts/dashboard.png" width="auto" alt="PerpusApp Logo"></a></p>
+
 ## Tentang PerpusApp
 
 PerpusApp adalah sebuah aplikasi manajemen perpustakaan digital yang dirancang untuk memudahkan pengelolaan data buku, anggota, peminjaman, pengembalian, dan denda secara efisien. Dengan antarmuka yang sederhana namun modern, PerpusApp mempermudah petugas perpustakaan dalam melakukan proses administrasi, serta memberikan kemudahan akses informasi kepada anggota perpustakaan. Aplikasi ini dikembangkan menggunakan teknologi web dan mendukung fitur multi-role untuk admin dan anggota, serta dilengkapi dengan statistik penggunaan dan laporan yang dapat diakses secara real-time.
-
-# 📚 PerpusApp - Aplikasi Manajemen Perpustakaan
-
-<p align="center"><a href="https://github.com/Hazelnut-dev/PerpuApp-Laravel12" target="_blank"><img src="public/image/layouts/dashboard.png" width="auto" alt="PerpusApp Logo"></a></p>
 
 ## ✨ Fitur Utama
 
@@ -29,7 +30,7 @@ PerpusApp adalah sebuah aplikasi manajemen perpustakaan digital yang dirancang u
 ## ⚙️ Cara Instalasi
 
 1. **Clone repositori ini:**
-git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
+- git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
 
 2. Masuk ke direktori proyek:
 - **cd perpusapp**
@@ -58,11 +59,12 @@ git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
 - **http://localhost:8000**
 
 ## 🔐 Data Login Default
-- username : Admin
-- password : admin
 
-- username : Petugas
-- password : petugas
+| Role   | Username           | Password  |
+|:-------|:------------------:|----------:|
+| Admin  | Admin              | admin     |
+| Petugas| Petugas            | petugas   |
+
 
 ## 🤝 Kontribusi
 Kontribusi sangat terbuka untuk siapa saja!
@@ -77,4 +79,4 @@ Jika Anda memiliki pertanyaan atau ingin bekerja sama dalam pengembangan aplikas
 
 Email: AkbarDirgantara762@gmail.com
 
-GitHub: https://github.com/Hazelnut-dev
+GitHub: https://github.com/Hazelnut-dev?tab=repositories
