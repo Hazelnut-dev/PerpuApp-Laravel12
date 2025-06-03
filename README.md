@@ -30,7 +30,7 @@ PerpusApp adalah sebuah aplikasi manajemen perpustakaan digital yang dirancang u
 ## ⚙️ Cara Instalasi
 
 1. **Clone repositori ini:**
-git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
+- git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
 
 2. Masuk ke direktori proyek:
 - **cd perpusapp**
@@ -59,11 +59,12 @@ git clone https://github.com/Hazelnut-dev/PerpuApp-Laravel12.git
 - **http://localhost:8000**
 
 ## 🔐 Data Login Default
-- username : Admin
-- password : admin
 
-- username : Petugas
-- password : petugas
+| Role   | Username           | Password  |
+|--------|--------------------|-----------|
+| Admin  | Admin              | admin     |
+| Petugas| Petugas            | petugas   |
+
 
 ## 🤝 Kontribusi
 Kontribusi sangat terbuka untuk siapa saja!
