@@ -1,5 +1,3 @@
-<p align="center"><a href="https://github.com/Hazelnut-dev/PerpuApp-Laravel12" target="_blank"><img src="public/image/layouts/logo.png" width="400" alt="PerpusApp Logo"></a></p>
-
 # 📚 PerpusApp - Aplikasi Manajemen Perpustakaan
 
 
